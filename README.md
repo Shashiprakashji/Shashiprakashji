@@ -4,11 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">🎓 I'm a Computer Science graduate proficient in C, JAVA & SQL<br>✨  learning tech skills since 2021<br>📚 I'm currently learning Spring Framework & Spring Boot</p>
-
-###
+### <p align="left">🎓 I'm a Computer Science graduate proficient in C, JAVA & SQL<br>✨  learning tech skills since 2021<br>📚 I'm currently learning Spring Framework & Spring Boot</p> ###
 
 <h2 align="left">I code with</h2>
 
@@ -36,3 +32,4 @@
 </div>
 
 ###
+
