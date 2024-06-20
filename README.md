@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shashiprakashji&label=Profile%20views&color=0e75b6&style=flat" alt="ananditapanigrahi" /> </p>
+
 
 ### Bizness
 - :paperclip: [My Resume/CV]([https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing](https://drive.google.com/file/d/1vdquWnYVWfa7lXq_96CJ0LqLYDSUdnrz/view?usp=drive_link))
@@ -52,5 +52,9 @@
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shashiprakashji&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiprakashji&layout=compact&&langs_count=8"/>
+</div>
+<div align="center">
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashiprakashji&" alt="Shashiprakashji" /></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shashiprakashji&label=Profile%20views&color=0e75b6&style=flat" alt="Shashiprakashji" /> </p>
 </div>
 
