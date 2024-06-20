@@ -55,6 +55,10 @@
 </div>
 <div align="center">
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashiprakashji&" alt="Shashiprakashji" /></a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shashiprakashji&label=Profile%20views&color=0e75b6&style=flat" alt="Shashiprakashji" /> </p>
+  <span style="display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=Shashiprakashji&label=Profile%20views&color=0e75b6&style=flat" alt="Shashiprakashji" />
+  </span>
 </div>
+
+
 
